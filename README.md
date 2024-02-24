@@ -3,4 +3,5 @@
 - To help you remember those tricky unix command just by text.
 - Made with Gemini
 
-![Screenshot from 2024-02-23 20-09-58](https://github.com/Tejas242/termtel/assets/59790915/ccbd7f64-c590-4fd0-938b-82935bc3830a)
+[termtel.webm](https://github.com/Tejas242/termtel/assets/59790915/1e1c3c8f-3ced-4512-8182-fea62960a456)
+
