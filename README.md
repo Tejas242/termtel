@@ -1,5 +1,5 @@
 # Termtel - Command Line AI Helper
-- Termtel is a command AI line helper
+- Termtel is a command line AI helper
 - To help you remember those tricky unix command just by text.
 - Made with Gemini
 
